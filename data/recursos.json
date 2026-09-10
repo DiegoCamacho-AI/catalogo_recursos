@@ -12,5 +12,13 @@
     "tema": "control de versiones",
     "nivel": "introductorio",
     "autor": "freeCodeCamp"
+  },
+  {
+    "titulo": "Cálculo de una variable",
+    "tipo": "libro",
+    "tema": "cálculo",
+    "nivel": "introductorio",
+    "autor": "Stuart"
   }
+
 ]
