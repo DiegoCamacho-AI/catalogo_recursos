@@ -25,3 +25,10 @@ clasificar y consultar recursos académicos de distinto tipo.
 
 ## Dependencias
 Ver `requirements.txt`
+
+## Próximas mejoras
+
+- Implementar el registro y edición de recursos desde la aplicación.
+- Agregar búsqueda y filtrado por tipo, tema, nivel o autor.
+- Incorporar pruebas automatizadas más completas en `tests/`.
+- Conectar el catálogo a una fuente de datos externa mediante `requests`.
