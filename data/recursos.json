@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Introducción a Python",
+    "tipo": "libro",
+    "tema": "programación",
+    "nivel": "introductorio",
+    "autor": "Real Python"
+  },
+  {
+    "titulo": "Curso de Git y GitHub",
+    "tipo": "video",
+    "tema": "control de versiones",
+    "nivel": "introductorio",
+    "autor": "freeCodeCamp"
+  }
+]
