@@ -11,6 +11,9 @@
 
 (pendiente - respóndela con tus palabras)
 
+**¿Por qué el repositorio que tienes ahora en tu computadora no es el mismo concepto que el fork creado en GitHub?**
+- El fork es una copia del repositorio original almacenada de forma remota en mi cuenta de GitHub, mientras que el repositorio que tengo en mi computadora es una copia local obtenida mediante clone. El fork permite realizar la colaboración desde GitHub y el repositorio local permite modificar y registrar los archivos desde mi computadora.
+
 ## Preguntas individuales
 
 79. 
