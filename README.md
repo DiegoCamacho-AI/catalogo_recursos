@@ -32,3 +32,5 @@ Ver `requirements.txt`
 - Agregar búsqueda y filtrado por tipo, tema, nivel o autor.
 - Incorporar pruebas automatizadas más completas en `tests/`.
 - Conectar el catálogo a una fuente de datos externa mediante `requests`.
+
+## Tipos de recursos
